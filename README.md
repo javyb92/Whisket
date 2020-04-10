@@ -22,7 +22,7 @@ After you signed up please paste the following url to your browser to see the li
 
 ![Capture](https://user-images.githubusercontent.com/59591116/79005877-7d057880-7b1d-11ea-95c6-41373bad1ad5.PNG)
 
-https://quiet-badlands-95961.herokuapp.com/matchup/5e9099d0e00946002a319791
+Paste after ".com" as soon as you sign in.... ---> /matchup/5e9099d0e00946002a319791
 
 ## Contributors
 
