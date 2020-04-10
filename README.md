@@ -9,7 +9,13 @@ This application allows you to have epic discussions and voting tournaments with
 
 ## Technology Used
 
-This application is built using MERN Stack framework including other dependencies like axios, bcrypt, bcrypt.js, express.js, and mongoose. 
+1. MongoDB/Mongoose
+2. Express.js
+3. React.js
+4. Node.js
+5. Axios
+6. bcrypt
+7. Bootstrap
 
 ### Future Updates
 - Implement more security and fix User Authentication.
