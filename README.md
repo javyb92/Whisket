@@ -1,27 +1,28 @@
 # Whisket 
 
-This application allows you to have epic discussions and voting tournaments with your friends over what are the best whiskeys and by making brackets for your favorites.
+![whisket](https://user-images.githubusercontent.com/59591116/79004882-3dd62800-7b1b-11ea-8911-66cdb2795761.PNG)
 
+## About 
 
- 
+This application allows you to have epic discussions and voting tournaments with your friends over what are the best whiskeys and by making brackets for your favorite whiskies. After signing up/logging in you are either prompted to create a fight or, with a shared URL by one of your friends, vote on an existing poll of two matched up whiskies! In each voting page, <b>you can only vote once</b> thanks to our database!
 
-## Installation
-
-Use the package manager [npm](https://docs.npmjs.com/) to install foobar.
-
-```bash
-* npm install on root folder
-* npm install on client folder
-```
 
 ## Technology Used
 
-This application is built using MERN Stack framework including other dependencies like axioms, bcrypt, bcrypt.js, express.js, and mongoose. 
+This application is built using MERN Stack framework including other dependencies like axios, bcrypt, bcrypt.js, express.js, and mongoose. 
 
 ### Future Updates
 - Implement more security and fix User Authentication.
 - Make the backgournd photo change automatically in every refresh of the page.
+- Implement a true tournament bracket
 
+## Try out the live Voting for youself!
+
+After you signed up please paste the following url to your browser to see the live voting poll of two whiskies already happening! I personnaly voted for the Wild Turkey...
+
+![Capture](https://user-images.githubusercontent.com/59591116/79005877-7d057880-7b1d-11ea-95c6-41373bad1ad5.PNG)
+
+https://quiet-badlands-95961.herokuapp.com/matchup/5e9099d0e00946002a319791
 
 ## Contributors
 
